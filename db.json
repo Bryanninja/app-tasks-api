@@ -3,9 +3,9 @@
     {
       "id": "faf72a01-fd18-46c5-9a7a-f1dc8bdefb5c",
       "title": "Teste",
-      "time": "afternoon",
+      "time": "morning",
       "description": "Testando",
-      "status": "done"
+      "status": "not_started"
     }
   ]
 }
