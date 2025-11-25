@@ -1,0 +1,16 @@
+{
+  "name": "app-tasks-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node api/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3"
+  }
+}
